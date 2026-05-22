@@ -1,0 +1,23 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Data files
+*.xlsx
+*.csv
+
+# Generated folders
+raw_photos/
+jpg_photos/
+collages/
+
+# Generated HTML
+photo_audit_gallery.html
+collage_gallery.html
+
+# Optional OS clutter
+.DS_Store
+Thumbs.db
